@@ -1,12 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+#Flipgrid
+- project: Flipgrid
+  role: Project Manager and App Developer
+  duration: 2017
   # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+  description: Group was asked to provide insight feedback of Flipgrid's design choices. Ended up redesigning their logo and mobile application, adding support for Augmented Reality.
 
 #Springfield Donut Eater's User Group
 - project: Springfield Donut Eater's User Group
