@@ -6,25 +6,25 @@
   role: Project Manager and App Developer
   duration: 2017
   # url: "#"
-  description: Group was asked to provide feedback of Flipgrid's design choices. Ended up redesigning their logo and mobile application, adding support for Augmented Reality.
+  description: Asked to provide feedback of Flipgrid's design choices. Ended up redesigning their logo and mobile application, adding support for Augmented Reality.
 
 #GenZGuru
 - project: GenZGuru
   role: Editor/Animator
   duration: 2016
   # url: "#"
-  description: Participated in filming focus groups in Des Moines during 2016 Election Primary. Directed filming over the course of 2 days, and edited footage into 15-second clips to post on GenZGuru's twitter.
+  description: Participated in filming focus groups in Des Moines during 2016 Election Primary. Directed filming over the course of 2 days, and edited footage into 15-second clips to post on GenZGuru's Twitter account.
 
 #VANTAGE
 - project: Final VANTAGE Project
-  role: Windows Sysadmin
+  role: Systems Architect and Administrator
   duration: 2016
   url: "https://www.youtube.com/watch?v=4-8babXPA1k&index=4&list=PLvGZ4YB69VpJHLJ3yRv9rGjrJOCHa9j4u"
-  description: Constructed a 30-node distributed rendering cluster to meet the end-of-year deadline for film project. Later expanded to 50 nodes for greater capability.
+  description: Constructed a 30-node distributed rendering cluster to meet the end-of-year deadline for film project. Later expanded to 50 nodes to improve performance.
 
 #48 Hour Film Festival
 - project: Providence 48 Hour Film Festival
-  role: Participant
+  role: Contestant
   duration: 2014
   url: "https://www.youtube.com/watch?v=HThBd9wEi6I&index=3&list=PLE892120941E36C38"
-  description: Flew to Rhode Island to join a film crew for the Providence 48 Hour Film Festival. Assisted with writing, set design, camera operation, editing, and distribution.
+  description: Flew to Rhode Island to join a film crew for the Providence 48 Hour Film Festival. As a member of the crew, assisted with writing, set design, camera operation, editing, and distribution.
