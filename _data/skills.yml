@@ -1,9 +1,9 @@
 # Skills
 # Software
 - skill: Software
-  description: HTML, CSS, Javascript, Rails, PHP, SQL, Python, Git, Ceph, Linux (CentOS 7/SE Linux, Ubuntu, Raspbian, OpenWRT, et al), Windows Server 2008-2016, IIS, nginx, Apache, CLI Virtualbox, Grav, REST API design, various serial protocols, Web Application Reverse-Engineering, Photoshop, Premiere Pro, After Effects, Cinema 4D (python scripting), Realflow (python scripting)
+  description: HTML, CSS, Javascript, Rails, PHP, C, SQL, Python, FreeRTOS, Git, Ceph, Linux (CentOS 7/SE Linux, Ubuntu, Raspbian, OpenWRT, et al), Windows Server 2008-2016, IIS, nginx, Apache, CLI Virtualbox, Grav, REST API design, various serial protocols, Web Application Reverse-Engineering, Photoshop, Premiere Pro, After Effects, Cinema 4D (python scripting), Realflow (python scripting)
 
 # Hardware
 - skill: Hardware
-  description: DELL PowerEdge (r610, r710, 2850, 1750), HP Proliant (g5-g7), RF Engineering, Embedded Systems (PIC, ARM), Integrated Circuits, Fiber Optics
+  description: DELL PowerEdge (r610, r710, 2850, 1750), HP Proliant (g5-g7), RF Engineering, Embedded Systems (PIC, ARM), PCB Design/Fabrication, Integrated Circuits, Fiber Optics
 
