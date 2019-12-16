@@ -3,7 +3,8 @@
 - company: Evans Larson
   position: Developer
   duration: 2017 &mdash; 2019
-  summary: Created Slack bots, bookmarklets, and web applications to automate tedious tasks
+  # summary: Created Slack bots, bookmarklets, and web applications to automate tedious tasks
+  summary: &bull; test\n&bull; test2
 
 # ICA FoodShelf - Technology Consultant
 - company: ICA FoodShelf
