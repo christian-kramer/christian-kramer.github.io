@@ -4,7 +4,7 @@
   position: Developer
   duration: 2017 &mdash; 2019
   # summary: Created Slack bots, bookmarklets, and web applications to automate tedious tasks
-  summary: "• test\n• test2"
+  summary: Automated internal Mailchimp reports using<ul><li>PHP to automatically ingest completed Mailchimp campaign data</li><li>IBM Watson to parse each campaign interaction into a prospect name, job title, and email address</li><li>PHP to programmatically generate a formatted Excel spreadsheet with headers bolded and important columns highlighted</li><li>PHP-based Slack Bot to upload generated Excel spreadsheets to a dedicated channel for employee analysis</li></ul><br>Automated internal customer reports using<ul><li>JavaScript-based bookmarklet for copying data from TVEyes’ dashboard to web server automatically</li><li>PHP to programmatically scrape BurrellesLuce’s reporting website</li><li>PHP to interact with Mention’s API to gather/aggregate daily interaction with client brands on Social Media</li><li>JavaScript-based bookmarklet for rearranging Hootsuite’s automatically generated reports into a layout suitable for branded PDF/printable reports</li></ul>
 
 # ICA FoodShelf - Technology Consultant
 - company: ICA FoodShelf
