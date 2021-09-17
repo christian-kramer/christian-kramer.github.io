@@ -5,13 +5,13 @@
   description: HTML, CSS, Javascript
 
 - skill: Back-End/General Development
-  description: PHP, Python, C#/.NET, C, REST API Design, Grav
+  description: PHP, C#/.NET, Python, C, C++, REST API Design, Grav
 
 - skill: General Infrastructure
   description: IIS, NGINX, Apache, Ceph, CLI Virtualbox
 
 - skill: Network Administration
-  description: DNS, DHCP, Creative use of Hosts file
+  description: Ubiquiti UniFi, DNS, DHCP, Creative use of Hosts file
 
 - skill: Operating Systems
   description: Linux (CentOS 7/SE Linux, Ubuntu, Raspbian, OpenWRT, et al), Windows Server 2008-2016
@@ -20,7 +20,7 @@
   description: Git/GitHub
 
 - skill: Embedded Systems
-  description: PIC (C, Assembly), ARM (C), x86/x86_64 (C, Assembly), Integrated Circuits, PCB Design/Fabrication
+  description: ARM (C), ESP8266 (C++), PIC (C, Assembly), x86/x86_64 (C, Assembly), Integrated Circuits, Analog Circuits, PCB Design/Fabrication
 
 - skill: Vulnerability Research/Reverse Engineering
   description: Wireshark, GNU Debugger, x86/x86_64 Disassembly
