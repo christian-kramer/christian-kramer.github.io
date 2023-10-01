@@ -1,9 +1,22 @@
 # Jobs
+#Technomark - Design Engineer
+- company: Technomark
+  position: Design Engineer
+  duration: 2023 &mdash; present
+  summary: Participated in a wide variety of engineering projects with a focus on value, including<ul><li>Designing a thin, easily-manufacturable user interface for a medical startup's handheld neurostimulator device</li><li>Developing custom device to aid in the manufacturing of surgical robot accessories</li></ul>
+
+#Technomark - Production Operator
+- company: Technomark
+  position: Production Operator
+  duration: 2022
+  summary: Proficiently operated<ul><li>Vanguard digital inkjet printing presses</li><li>Aristo knife cutters</li><li>CalderaRIP software</li><li>Automation Alternatives/SMTmax pick-and-place software and equipment</li><li>Several laser cutting, scribing, and imaging devices</li></ul>
+#consider replacing "proficiently ..." with "independently"
+
 # Consulting (Self-Employed)
 - company: Independent
   position: Consultant
   duration: 2019 &mdash; present
-  summary: Enjoyed working on a diverse range of projects for a variety of companies in the communications, entertainment, and residential air quality industries. These projects have utilized my skills in high-level and low-level software development, additive manufacturing, and custom printed circuit board design.
+  summary: Contributed to a diverse range of projects for a variety of companies in the communications, entertainment, and residential air quality industries. These projects have utilized my skills in high-level and low-level software development, additive manufacturing, and custom printed circuit board design.
 
 # Evans Larson - Developer
 - company: Evans Larson
@@ -14,7 +27,7 @@
 
 # ICA FoodShelf - Technology Consultant
 - company: ICA FoodShelf
-  position: Technology Consultant
+  position: Technology Consultant (Volunteer)
   duration: 2017
   summary: Replaced overweight Slack client with lightweight collaboration alternative, and prototyped an inventory and food rationing system which utilized their existing weigh scales and networking infrastructure.
 
