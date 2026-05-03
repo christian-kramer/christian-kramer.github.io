@@ -1,9 +1,15 @@
 # Jobs
 
+# Cirtec Medical - CMM Programmer / Metrologist
+- company: Cirtec Medical
+  position: CMM Programmer / Metrologist
+  duration: 2025 &mdash; present
+  summary: <ul><li>Programmed and deployed VMM inspection solutions (Micro-Vu, OGP Zone3, Keyence) that reduced inspection friction on the floor, improving consistency, minimizing operator intervention, and keeping stamping, Swiss machining, and CNC milling projects moving in an ISO 13485:2016 / FDA 21 CFR Part 820 environment.</li><li>Collaborated directly with engineering to review and influence GD&T and inspection requirements, resolving gaps between drawing intent and real-world measurement capability to establish consistent, audit-defensible methods.</li><li>Applied measurement system analysis methods including Type 1 studies, GR&amp;R, P/T ratio, and capability analysis (Cp/Cpk/Ppk) to identify sources of variation and refine measurement strategies, improving repeatability, correlation, and confidence in reported results.</li><li>Developed custom software and reporting integrations to standardize inspection outputs, reduce manual data handling, and improve data integrity; supported QC-Calc SPC integration and electronic data transfer into validated systems of record, contributing to 21 CFR Part 11 aligned processes and audit readiness.</li></ul>
+
 # Velosity - Quality Inspector
 - company: Velosity
   position: Quality Inspector
-  duration: 2025 &mdash; present
+  duration: 2025
   summary: <ul><li>Utilized multisensor measurement systems including Micro-Vu, Hexagon PC-DMIS, Keyence LM-X, and OGP Zone3 to inspect high-precision medical components held to extremely tight tolerances.</li><li>Leveraged prior hands-on programming experience with Micro-Vu systems to efficiently run and troubleshoot existing routines.</li><li>Supported both Swiss machining and CNC milling operations, ensuring dimensional accuracy and quality compliance.</li><li>Applied GD&T concepts and interpreted complex engineering drawings in a production environment serving the medical device and aerospace industries, governed by ISO 13485:2016, AS9100D, and ISO 9001:2015 standards.</li></ul>
 
 #Technomark - Design Engineer
