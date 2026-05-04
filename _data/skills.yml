@@ -1,23 +1,19 @@
 # Skills
-# Software
 
-- skill: Embedded Systems and Microcontrollers
-  description: ARM, Atmel AVR, Espressif ESP, Microchip PIC, x86/x86_64
+- skill: Embedded Firmware and Systems
+  description: C/C++ (primary), USB host/device, hardware interfacing, peripheral IC control, driver/library development, STM32, AVR, ESP, PIC
 
-- skill: Electronics and Circuit Design
-  description: Analog Circuits, Membrane Switch/Flex Circuits, PCB Design/Fabrication, Electroluminescent Lamp Design
+- skill: Metrology and Quality
+  description: Micro-Vu, OGP (Zone3), Keyence, GD&T, GR&R, Type 1, P/T, process capability (Cp/Cpk/Ppk), measurement strategy
+
+- skill: Thin-Film Electronics and Flex Circuits
+  description: membrane switches, flex circuits, electroluminescent (EL), transparent conductors (ITO, PEDOT), silver/carbon conductive inks, screen-printed electronics, tactile HMI design
+
+- skill: PCB and Electrical Engineering
+  description: schematic and PCB design, analog/mixed-signal circuits, Li-ion charging, power regulation, signal integrity, fast edge-rate signaling, digital interfaces (USB, SPI, I2C, UART)
   
-- skill: PCB Design Software
-  description: KiCad
-
-- skill: CAD Software/Graphic Design
-  description: AutoCAD, Adobe Illustrator, Cinema4D, Realflow (used for fluid simulation in 3D)\
-  
-- skill: Programming Languages
-  description: C++, C, C#/.NET, PHP, Flutter/Dart, Python, HTML, CSS, JavaScript
-  
-- skill: Web Development and APIs
-  description: REST API Design
-
 - skill: Manufacturing and Printing Techniques
-  description: Laser Cutting, Die Cutting, Knife Cutting, Screen Printing, Digital Printing
+  description: swiss machining, laser cutting, die cutting (die design), CNC knife cutting, stamping/forming, screen printing, digital UV printing, assembly workflows
+
+- skill: Additional Software
+  description: Python, JavaScript, C#, PHP, API design/integration, automation
